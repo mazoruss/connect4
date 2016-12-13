@@ -1,0 +1,29 @@
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+
+.tile {
+  background-color: gray;
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  margin: 2px;
+}
+
+.redTile {
+  background-color: red;
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  margin: 2px;
+}
+
+.blueTile {
+  background-color: blue;
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  margin: 2px;
+}
